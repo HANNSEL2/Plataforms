@@ -10,3 +10,6 @@
 
 # Acceso Admin
 <p align="center"><a href="#" target="_blank"><img src="markdown/adminlte.png" width="400"></a></p>
+
+# Menu Super Admin
+<p align="center"><a href="#" target="_blank"><img src="markdown/menu_admin.png" width="400"></a></p>
